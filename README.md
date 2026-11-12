@@ -1,5 +1,7 @@
 # KNOW-VAULT
 
+[![Stars](https://img.shields.io/github/stars/kapildhinwa2010-dev/KNOW-VAULT?style=flat-square)](https://github.com/kapildhinwa2010-dev/KNOW-VAULT/stargazers) [![Forks](https://img.shields.io/github/forks/kapildhinwa2010-dev/KNOW-VAULT?style=flat-square)](https://github.com/kapildhinwa2010-dev/KNOW-VAULT/network/members) [![Issues](https://img.shields.io/github/issues/kapildhinwa2010-dev/KNOW-VAULT?style=flat-square)](https://github.com/kapildhinwa2010-dev/KNOW-VAULT/issues) [![Top language](https://img.shields.io/github/languages/top/kapildhinwa2010-dev/KNOW-VAULT?style=flat-square)](https://github.com/kapildhinwa2010-dev/KNOW-VAULT)
+
 Census the storage vault inside a memory layer: how many slots, how many dead.
 
 KNOW-VAULT treats memory keys as directions. A key can hold a distinct fact only if it does not overlap another key. The vault report estimates the number of mutually non-overlapping slots, the effective rank of the key matrix, and given activations which neurons never fire.
